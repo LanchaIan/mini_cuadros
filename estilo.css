@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(82, 82, 255);
+}
+.titulo{
+    background-color: rgb(250, 79, 79);
+    text-align: center;
+    height: 25px;
+    font-size: larger;
+}
+
+.cont_fotos{
+    background-color: blanchedalmond;
+    padding: 20px;
+    text-align: center;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+
+div{
+    margin-top: 30px;
+}
+.imagenes{
+    height: 100px; width: 100px;
+    padding: 5px;
+}
