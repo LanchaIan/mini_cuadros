@@ -13,5 +13,5 @@ function cambiar(){
 
 function mod_url(foto){
     url = 'img_completa.html?name=' + encodeURIComponent(foto);
-    document.location.href = url;
+    ventana1 = window.open(url, "Imagen completa", "directories=no, location=no, menubar=no, scrollbars=no, statusbar=no, tittlebar=no");
 }
